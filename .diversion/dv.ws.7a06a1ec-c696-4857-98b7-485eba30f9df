@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.7a06a1ec-c696-4857-98b7-485eba30f9df",
+  "RepoID": "dv.repo.e44961a8-b48c-4dc3-98cf-1334a7960e31",
+  "Path": "C:\\Users\\mepow\\OneDrive\\Documents\\Unreal Projects\\SpaceRace",
+  "AccountID": "Google_110943505245008052891",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "SpaceRace",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
